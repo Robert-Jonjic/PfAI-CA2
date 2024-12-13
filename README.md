@@ -32,8 +32,8 @@ To run this project, clone the repository and set up the environment as follows:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/glass-data-analysis.git
-   cd glass-data-analysis
+   git clone https://github.com/Robert-Jonjic/PfAI-CA2.git
+   cd PfAI-CA2.git
    ```
 
 2. **Set up the environment**:
